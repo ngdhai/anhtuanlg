@@ -26,7 +26,7 @@ dwsync.xml
 /storage/.htaccess
 /storage/app/.gitignore
 /storage/framework/.gitignore
-/storage/framework/cache/.gitignore
+/storage/framework/cache
 /storage/framework/sessions/.gitignore
 /storage/framework/views/.gitignore
 /storage/logs/.gitignore
