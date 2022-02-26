@@ -1,0 +1,12 @@
+000046a:1:{s:4:"time";s:21:"0.76063700 1645848924";}1645908924a:9:{s:2:"id";i:7;s:10:"updated_at";s:19:"2022-02-10 12:33:41";s:10:"created_at";s:19:"2022-02-10 12:33:41";s:10:"created_by";i:1;s:9:"edited_by";i:1;s:8:"rel_type";s:5:"infor";s:6:"rel_id";s:1:"2";s:5:"field";s:5:"infor";s:5:"value";s:643:"
+                        <div class="email element">
+                            <div class="icon-wrapper element"><span class="dollar-sign"></span></div>
+                            <div class="element" id="element_1644496072382">Tỷ giá:  </div>
+                        </div>
+                        <div class="phone element">
+                            <div class="icon-wrapper element" id="element_1644496072381">
+                                <i class="flaticon-call"></i>
+                            </div>
+                            <div class="element">+ 094 319 6162</div>
+                        </div>
+                    ";}
